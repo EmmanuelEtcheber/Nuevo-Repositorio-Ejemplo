@@ -1,9 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+#include "Estudiante.h"
 int main()
 {
+    Estudiante estudianteNuevo;
 
-    ///Cambio para que genere conflicto
+    estudianteNuevo = cargarEstudiante();
+
+    mostrarEstudiante(estudianteNuevo);
+
+
     }
 
