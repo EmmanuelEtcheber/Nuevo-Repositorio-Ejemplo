@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1779981000 source:c:\users\manu_\onedrive\documentos\github\nuevo-repositorio-ejemplo\ejemplo versionado\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Estudiante.h"
+
+1779981103 c:\users\manu_\onedrive\documentos\github\nuevo-repositorio-ejemplo\ejemplo versionado\estudiante.h
+
