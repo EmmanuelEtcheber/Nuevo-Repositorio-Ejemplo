@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("hola");
-    ///Cambio agregado desde Emma
+
+    ///Cambio para que genere conflicto
     }
